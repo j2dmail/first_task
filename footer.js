@@ -1,0 +1,1 @@
+const footerEl = nameEl.addEventlistener;
